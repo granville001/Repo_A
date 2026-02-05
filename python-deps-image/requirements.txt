@@ -52,7 +52,7 @@ pyreadline3==3.5.4
 python-dateutil==2.9.0.post0
 pytz==2024.2
 PyYAML==6.0.2
-pyzma==0.6.3
+pywin32==308; platform_system=="Windows"
 requests==2.32.3
 rich==14.0.0
 scikit-learn==1.5.2
